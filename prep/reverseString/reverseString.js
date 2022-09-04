@@ -2,7 +2,7 @@
 
 
 function reverse(str){
-   return str.split('').reduce( rev , chracter => char+rev,'')    
+   return str.split('').reduce( rev , char => char+rev,'')    
 }
 
 
