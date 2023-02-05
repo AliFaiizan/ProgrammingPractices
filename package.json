@@ -1,0 +1,23 @@
+{
+  "name": "programmingpractices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-validBinaryTree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifaiizan/programmingPractices.git"
+  },
+  "author": "alifaiizan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifaiizan/programmingPractices/issues"
+  },
+  "homepage": "https://github.com/alifaiizan/programmingPractices#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
