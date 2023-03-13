@@ -11,3 +11,5 @@ def arrayOfProduct(array):
         products[i] *= rightRunningProduct
         rightRunningProduct *= array[i]
     return products
+
+print(arrayOfProduct([5, 1, 4, 2]))
